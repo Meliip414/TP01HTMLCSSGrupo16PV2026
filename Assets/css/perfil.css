@@ -2,13 +2,16 @@ body {
     font-family: "Tilt Warp", cursive;
     font-optical-sizing: auto;
     font-weight: 400;
-    background-color: #51353a;
-    color: #F6C3C1;
+    background-color: rgb(82, 44, 51);
     line-height: 1.6;
     margin: 20px;
 }
 h1,p {
-    text-align: center;
+    text-align: left;
     font-family: 'Lexend', sans-serif;
-    color: #33050e;
+    color: #F6C3C1;
+}
+
+footer a,{
+    color: rgb(150, 34, 78);
 }
